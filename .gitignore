@@ -140,3 +140,4 @@ data/in/*
 data/out/*
 !data/out/.gitkeep
 
+geckodriver.log
